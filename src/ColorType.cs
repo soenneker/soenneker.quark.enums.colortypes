@@ -1,6 +1,6 @@
 ﻿using Intellenum;
 
-namespace Soenneker.Quark.Enums.ColorTypes;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// Common html theme and color types in enumeration form.
